@@ -1,1 +1,1 @@
-[GET https://api.u7jewelry.com/index.php/Club07505/Joke/addJoke?content=[URL编码 [关键词后内容]],coo ]
+[如果真 是否在审核中,[读配置项 [最强目录]\数据文件\[群号]\微信命令.ini,[发送者号码],微信笑话审核]=真][GET https://api.u7jewelry.com/index.php/Club07505/Joke/topass?passflag=1&id=[读配置项 [最强目录]\数据文件\[群号]\微信命令.ini,[发送者号码],id],[Cookies]]<隐藏" [写配置项 [最强目录]\数据文件\[群号]\微信命令.ini,[发送者号码],微信笑话审核,假] "隐藏>[是否在审核中]
